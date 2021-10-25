@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Beifz
+- 👀 I’m interested through C++, C#
+- 🌱 I’m currently learning more in c ++
+- 📫 How to reach me ? join the discord = https://discord.gg/QpZ8rUwRtS
